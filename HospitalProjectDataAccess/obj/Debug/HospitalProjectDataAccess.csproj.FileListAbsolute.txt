@@ -1,0 +1,6 @@
+D:\c#\HospitalProjectDataAccess\bin\Debug\HospitalProjectDataAccess.dll
+D:\c#\HospitalProjectDataAccess\bin\Debug\HospitalProjectDataAccess.pdb
+D:\c#\HospitalProjectDataAccess\obj\Debug\HospitalProjectDataAccess.csproj.AssemblyReference.cache
+D:\c#\HospitalProjectDataAccess\obj\Debug\HospitalProjectDataAccess.csproj.CoreCompileInputs.cache
+D:\c#\HospitalProjectDataAccess\obj\Debug\HospitalProjectDataAccess.dll
+D:\c#\HospitalProjectDataAccess\obj\Debug\HospitalProjectDataAccess.pdb
