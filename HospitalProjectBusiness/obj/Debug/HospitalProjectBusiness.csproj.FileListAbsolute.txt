@@ -1,0 +1,9 @@
+D:\c#\HospitalProjectBusiness\obj\Debug\HospitalProjectBusiness.csproj.AssemblyReference.cache
+D:\c#\HospitalProjectBusiness\obj\Debug\HospitalProjectBusiness.csproj.CoreCompileInputs.cache
+D:\c#\HospitalProjectBusiness\bin\Debug\HospitalProjectBusiness.dll
+D:\c#\HospitalProjectBusiness\bin\Debug\HospitalProjectBusiness.pdb
+D:\c#\HospitalProjectBusiness\bin\Debug\HospitalProjectDataAccess.dll
+D:\c#\HospitalProjectBusiness\bin\Debug\HospitalProjectDataAccess.pdb
+D:\c#\HospitalProjectBusiness\obj\Debug\HospitalProjectBusiness.dll
+D:\c#\HospitalProjectBusiness\obj\Debug\HospitalProjectBusiness.pdb
+D:\c#\HospitalProjectBusiness\obj\Debug\Hospital.B4707773.Up2Date
